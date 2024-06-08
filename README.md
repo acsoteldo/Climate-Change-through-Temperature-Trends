@@ -16,7 +16,7 @@ The temperature data is sourced from reputable climate monitoring agencies and r
 
 The analysis will be based on the cleaned dataset, which includes the following fields:
 * Country: The name of the country.
-* ISO: The ISO 3166-1 alpha-3 country code.
+* Country ID: The ISO 3166-1 alpha-3 country code.
 * Year: The year of the temperature record.
 * Temperature: The annual surface temperature (in degrees Celsius) for the corresponding year and country.
 
