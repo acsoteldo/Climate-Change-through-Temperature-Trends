@@ -31,7 +31,8 @@ Leverage data-driven insights to deepen our understanding of climate dynamics an
 
 ## Objective
 * Analyze temperature trends over time to understand the extent and nature of climate change impacts across different countries.
-* Examine long-term temperature data, to elucidate patterns, trends, and variations that may indicate global warming, regional climate shifts, or other significant environmental changes. * * * * Generate actionable insights that can inform policy decisions, guide adaptation strategies, and contribute to global efforts to mitigate the effects of climate change.
+* Examine long-term temperature data, to elucidate patterns, trends, and variations that may indicate global warming, regional climate shifts, or other significant environmental changes.
+* Generate actionable insights that can inform policy decisions, guide adaptation strategies, and contribute to global efforts to mitigate the effects of climate change.
 
 ## Key Insights
 ### Dashboard
