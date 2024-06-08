@@ -4,7 +4,7 @@ SELECT
     Year,
     AVG(Temperature) AS Avg_Temperature
 FROM 
-    Temperature_Data
+    long_format_annual_surface_temp_CLEANED
 GROUP BY 
     Country,
     Year
