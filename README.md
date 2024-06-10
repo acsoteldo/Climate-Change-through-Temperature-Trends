@@ -35,6 +35,11 @@ Leverage data-driven insights to deepen our understanding of climate dynamics an
 * Generate actionable insights that can inform policy decisions, guide adaptation strategies, and contribute to global efforts to mitigate the effects of climate change.
 
 ## Key Insights
+* Temperatures have been steadily increasing over the years globally.
+* Notably, Scandinavian countries and other northern hemisphere nations have experienced the highest temperature increases.
+* The dataset lacks information from some countries, such as Russia.
+* The dataset spans from 1961 to 2022, with data collected in three-year intervals.
+
 ### Dashboard
 ![image](https://github.com/acsoteldo/Climate-Change-through-Temperature-Trends/assets/76544489/51c60844-ca79-4a76-9099-e2c28610be8c)
 
