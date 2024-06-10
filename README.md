@@ -36,6 +36,7 @@ Leverage data-driven insights to deepen our understanding of climate dynamics an
 
 ## Key Insights
 ### Dashboard
+![image](https://github.com/acsoteldo/Climate-Change-through-Temperature-Trends/assets/76544489/51c60844-ca79-4a76-9099-e2c28610be8c)
 
 ## Next Steps
 * Use the insights from temperature trend analysis to promote adaptive strategies and resilience-building measures. These measures will help mitigate the impacts of climate change on vulnerable communities and ecosystems.
