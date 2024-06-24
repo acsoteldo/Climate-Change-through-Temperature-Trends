@@ -30,9 +30,9 @@ Long-term analysis of temperature trends will reveal statistically significant p
 Leverage data-driven insights to deepen our understanding of climate dynamics and contribute to the collective efforts aimed at addressing climate change challenges. By analyzing temperature trends over time, the report aims to uncover meaningful patterns and trends that can inform policy-making, advance scientific research, and promote public awareness and engagement on climate-related issues.
 
 ## Objective
-* Analyze temperature trends over time to understand the extent and nature of climate change impacts across different countries.
-* Examine long-term temperature data, to elucidate patterns, trends, and variations that may indicate global warming, regional climate shifts, or other significant environmental changes.
-* Generate actionable insights that can inform policy decisions, guide adaptation strategies, and contribute to global efforts to mitigate the effects of climate change.
+* Evaluate the yearly temperature variations across countries in 2022 to assess regional climate patterns and variations.
+* Compare yearly temperature variations across countries in 2000 with more recent data (2022) to analyze changes over time.
+* Identify and rank countries with the highest increase in temperatures over the specified period (2000 to 2022).
 
 ## Key Insights
 * Temperatures have been steadily increasing over the years globally.
